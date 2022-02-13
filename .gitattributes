@@ -1,0 +1,5 @@
+# use lf by default
+
+* text=auto eol=lf
+*.ps1 eol=CRLF
+*.bat eol=CRLF
